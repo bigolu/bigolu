@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+[LinkedIn](https://www.linkedin.com/in/bigolu/)
+
+[Resume](https://docs.google.com/viewerng/viewer?url=https://github.com/bigolu/jobs/raw/master/resume.pdf)
 
 <!--
 **bigolu/bigolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
